@@ -2,8 +2,8 @@
 My first Github repo!
 Hello Odin!
 
-##Additional Changes
-Testing out ==Markdown==.
+## Additional Changes
+Testing out **Markdown**.
 
 - Item 1
 - Item 2
